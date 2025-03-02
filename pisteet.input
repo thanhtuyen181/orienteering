@@ -1,0 +1,9 @@
+15;10
+asd;1;1;200;A
+moi;2;3;500;M
+hei;5;5;650;H
+wau;4;1;340;W
+kaukana;13;9;800;P
+ROUTES
+lyhyt;asd;moi;hei
+pidempi;moi;kaukana;wau;asd
